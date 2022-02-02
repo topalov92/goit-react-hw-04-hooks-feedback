@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/topalov92/goit-react-hw-04-hooks-feedback/static/css/main.9cf68020.chunk.css",
+    "main.js": "/topalov92/goit-react-hw-04-hooks-feedback/static/js/main.ba9dd19b.chunk.js",
+    "main.js.map": "/topalov92/goit-react-hw-04-hooks-feedback/static/js/main.ba9dd19b.chunk.js.map",
+    "runtime-main.js": "/topalov92/goit-react-hw-04-hooks-feedback/static/js/runtime-main.7ecd4da9.js",
+    "runtime-main.js.map": "/topalov92/goit-react-hw-04-hooks-feedback/static/js/runtime-main.7ecd4da9.js.map",
+    "static/css/2.c79dbdbc.chunk.css": "/topalov92/goit-react-hw-04-hooks-feedback/static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.c12b86a9.chunk.js": "/topalov92/goit-react-hw-04-hooks-feedback/static/js/2.c12b86a9.chunk.js",
+    "static/js/2.c12b86a9.chunk.js.map": "/topalov92/goit-react-hw-04-hooks-feedback/static/js/2.c12b86a9.chunk.js.map",
+    "index.html": "/topalov92/goit-react-hw-04-hooks-feedback/index.html",
+    "static/css/2.c79dbdbc.chunk.css.map": "/topalov92/goit-react-hw-04-hooks-feedback/static/css/2.c79dbdbc.chunk.css.map",
+    "static/css/main.9cf68020.chunk.css.map": "/topalov92/goit-react-hw-04-hooks-feedback/static/css/main.9cf68020.chunk.css.map",
+    "static/js/2.c12b86a9.chunk.js.LICENSE.txt": "/topalov92/goit-react-hw-04-hooks-feedback/static/js/2.c12b86a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ecd4da9.js",
+    "static/css/2.c79dbdbc.chunk.css",
+    "static/js/2.c12b86a9.chunk.js",
+    "static/css/main.9cf68020.chunk.css",
+    "static/js/main.ba9dd19b.chunk.js"
+  ]
+}
